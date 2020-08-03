@@ -1,0 +1,75 @@
+
+
+body{
+    background-color: rgba(50, 205, 50, 0.795);
+}
+
+.container{
+    float: none;
+    background-color: linen;
+    margin: 50px auto;
+    border-radius: 7px;
+    width: fit-content;
+    padding: 15px;
+}
+
+h5{
+    text-align: center;
+}
+
+.display-4{
+    font-size: 2.5rem;;
+}
+
+.container-new{
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.input-group>.form-control:not(:last-child) {
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+
+.options button{
+    margin: 5px;
+    margin-top: 0px;
+}
+
+.btn:hover{
+   cursor: pointer;
+   opacity: 0.75;
+}
+
+#add{
+    margin-left: 15px;
+    background-color: rgba(0, 60, 255, 0.658);
+    
+}
+
+#clear-completed{
+    margin-left: 0;
+    background-color: #fd7e14;
+}
+
+#empty{
+    background-color: red;
+}
+
+#save{
+    background-color: #25a645;;
+    margin-right: 0;
+}
+
+ol{
+    padding-inline-start: 1em;
+    margin-block-start: 1rem;
+}
+
+
+li{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
